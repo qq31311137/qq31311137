@@ -1,8 +1,8 @@
-### my name is Wu, People here also call me Wu Ge. 
+### ♂ my name is Wu, People here also call me Wu Ge. 
 
-### I live alone, and my house is very big. So welcome to my home. You can just sleep here if you feel tired. I won’t mind. 
+### ♂ I live alone, and my house is very big. So welcome to my home. You can just sleep here if you feel tired. I won’t mind. 
 
-### I always help people who leave home alone, so I won’t mind whether you come or not. But, if you’d like to come, I can take you to the supermarket and buy something delicious.
+### ♂ I always help people who leave home alone, so I won’t mind whether you come or not. But, if you’d like to come, I can take you to the supermarket and buy something delicious.
 
 <!--
 **qq31311137/qq31311137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
