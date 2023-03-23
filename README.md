@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Stats Card
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qq31311137&count_private=true&show_icons=true&theme=midnight-purple)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qq31311137&count_private=true&show_icons=true&theme=midnight-purple)
 
 <!-- 语言卡 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qq31311137)](https://github.com/anuraghazra/github-readme-stats) -->
