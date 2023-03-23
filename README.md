@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 状态卡 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qq31311137)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 隐藏状态 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qq31311137&hide=contribs)
