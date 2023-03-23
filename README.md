@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **qq31311137/qq31311137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
